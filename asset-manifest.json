@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sonia_app/static/css/main.182d71f6.chunk.css",
+    "main.js": "/sonia_app/static/js/main.8254f9c5.chunk.js",
+    "main.js.map": "/sonia_app/static/js/main.8254f9c5.chunk.js.map",
+    "runtime-main.js": "/sonia_app/static/js/runtime-main.38a15696.js",
+    "runtime-main.js.map": "/sonia_app/static/js/runtime-main.38a15696.js.map",
+    "static/js/2.01e535ea.chunk.js": "/sonia_app/static/js/2.01e535ea.chunk.js",
+    "static/js/2.01e535ea.chunk.js.map": "/sonia_app/static/js/2.01e535ea.chunk.js.map",
+    "index.html": "/sonia_app/index.html",
+    "static/css/main.182d71f6.chunk.css.map": "/sonia_app/static/css/main.182d71f6.chunk.css.map",
+    "static/js/2.01e535ea.chunk.js.LICENSE.txt": "/sonia_app/static/js/2.01e535ea.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sonia_app/static/media/bg.ec525c5c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a15696.js",
+    "static/js/2.01e535ea.chunk.js",
+    "static/css/main.182d71f6.chunk.css",
+    "static/js/main.8254f9c5.chunk.js"
+  ]
+}
