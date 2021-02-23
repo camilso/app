@@ -16,10 +16,6 @@ body{
 .active{
   opacity: 0%;
 }
-@font-face {
-  font-family: 'Learning Curve';
-  src: url('./bold.otf');
-}
 select{
   font-size: 20px;
   margin-bottom: 20px;
